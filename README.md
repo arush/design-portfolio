@@ -1,5 +1,5 @@
-# Design Portfolio
-The following is some of my work for Try.com, where in some cases I did both design and engineering implementation across desktop and mobile.
+# Portfolio
+The following is some of my work from Try.com.
 
 1. Consumer Mobile app
 2. Internal admin tool + workflow system
@@ -19,8 +19,7 @@ https://user-images.githubusercontent.com/329761/130305045-de754bc9-2345-4595-b9
 
 ![mobile-app](https://user-images.githubusercontent.com/329761/130306472-2d293c32-3095-4e2e-870f-0d88fe763ff6.png)
 ![mobile-app-home](https://user-images.githubusercontent.com/329761/130306700-394ea42d-44c1-4679-ae11-e1d86721e27c.png)
-
-
+![iphone](https://user-images.githubusercontent.com/329761/130308426-08174d50-43f5-4ef6-8e77-f8ca31cc9fcc.png)
 
 ----
 ## 2. Internal admin tool + workflow
@@ -61,7 +60,8 @@ Here's one of many animations we used over the years. You can read how I made th
 -----
 ## 4. Information Architecture + Wireframing
 Here's the Miro board where requirements gathering turned into wireframes and mockups: https://miro.com/app/board/o9J_kzPiudQ=/
-<img width="1399" alt="Screen Shot 2021-08-21 at 2 49 58 AM" src="https://user-images.githubusercontent.com/329761/130306842-68a01d34-70cf-4320-9e2a-051e795a0a23.png">
+<img width="1012" alt="Screen Shot 2021-08-21 at 4 02 16 AM" src="https://user-images.githubusercontent.com/329761/130308470-c3ac245c-7464-4574-891b-cd5c4e042d81.png">
+
 
 ### UML work
 ![keep-return-flow](https://user-images.githubusercontent.com/329761/130306952-e45b38ec-c2ce-4b5e-a4ba-37e18ea3d45e.png)
@@ -76,6 +76,7 @@ Here's the Miro board where requirements gathering turned into wireframes and mo
 ----
 
 ## 5. Desktop Chrome Extension Onboarding
+![Desktop - Website](https://user-images.githubusercontent.com/329761/130308541-622a604c-027f-47ab-91ca-df3886febb75.png)
 ![MacBook](https://user-images.githubusercontent.com/329761/130306564-435e3711-db53-4a74-ba22-0b24e7f0e665.png)
 ![MacBook-1](https://user-images.githubusercontent.com/329761/130306478-818d7e62-bb3b-49b5-b54c-746840a58b7e.png)
 ![MacBook-2](https://user-images.githubusercontent.com/329761/130306480-32be6b62-adf9-4816-aec8-0c7f6b717379.png)
