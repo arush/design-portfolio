@@ -23,27 +23,27 @@ https://user-images.githubusercontent.com/329761/130305045-de754bc9-2345-4595-b9
 
 ----
 ## 2. Internal admin tool + workflow
+
+Figma file: https://www.dropbox.com/s/1kuv7hm4x2pykik/Sierra.fig?dl=0
+
 Our internal system at Try.com was built to be as beautiful and easy to use as a high-end consumer app. The workflow tool made use of a rule-based system to push orders through their correct flow depending on their state. I made extensive use of Figma's component system to design each and every possible state in each workflow.
 
-### Key Features of Customer View
-* top-right: heads-up display of account verification and trust levels, making use of traffic light colors to surface immediate dangers
-* workflow list: the panel on the left was a real-time (websockets) list of open workflow tasks, notice the tab groups C1-C2-C3-C4. Each category has separate flows and risk analysts worked through the list of tasks by category
-* center: reduce clutter by using icons where possible (links to stripe/intercom) and traffic light warnings where necessary
-* right: latest customer support chat / email conversations with the customer
-
 ![Bags Big Screen](https://user-images.githubusercontent.com/329761/130306148-45ba4fd8-b3f1-402f-bb61-a9e2f2cbaf04.png)
+![Bags-1](https://user-images.githubusercontent.com/329761/130308937-ac4e93f6-dde2-4a2f-9695-ec63c1121c6d.png)
+![Bags-2](https://user-images.githubusercontent.com/329761/130308934-c435f491-cc29-4dc3-b43c-99493ebfc3bb.png)![Bags](https://user-images.githubusercontent.com/329761/130308938-addd10ed-ad55-434a-a54b-82f0fba987a2.png)
+![Bag Detail](https://user-images.githubusercontent.com/329761/130308933-a97a55ab-1c3f-4b6f-aa1f-51abaaf8fe1d.png)
+![Bag Detail-1](https://user-images.githubusercontent.com/329761/130308931-0e726be7-9a1f-435b-b326-006310061c29.png)
+![Bag Detail-2](https://user-images.githubusercontent.com/329761/130308929-6d189c1b-c846-4f2b-b783-0daf796ae871.png)
+![Bag Detail-3](https://user-images.githubusercontent.com/329761/130308927-194d23b6-c3d5-4111-9788-a801882c4ef9.png)
+
+### UI Component Library
+<img width="964" alt="Screen Shot 2021-08-21 at 4 20 09 AM" src="https://user-images.githubusercontent.com/329761/130308987-ca70026a-d54c-4d28-9f7c-903d2935c076.png">
+<img width="1178" alt="Screen Shot 2021-08-21 at 4 17 15 AM" src="https://user-images.githubusercontent.com/329761/130308988-8dd4a7ad-5cc7-4245-b3ee-c07a85e14826.png">
+<img width="1176" alt="Screen Shot 2021-08-21 at 4 15 53 AM" src="https://user-images.githubusercontent.com/329761/130308990-5e0f7f9b-745c-43c7-8ddb-1417e7bfeda5.png">
+<img width="1101" alt="Screen Shot 2021-08-21 at 4 14 46 AM" src="https://user-images.githubusercontent.com/329761/130308992-6a259813-c781-4ebf-9c9e-647d898b2767.png">
 
 
-
-### Universal Search
-#### Problem
-We needed a single interface to search across entities: Customers, Orders,  Merchants. Our customerbase had grown significantly and we needed to have a quick way to visually deduce between customers with similar names.
-
-#### Solution
-* The search panel is available in the interface at all times, also via keyboard shortcut `/`. 
-* Results ordered by last visit, likely most relevant customer first
-* Can immediately see customer's credit score which would be another ditinguishing trait between customers with similar names
-* Profile thumbnail helps immediately distinguish customers along with email
+### Universal search
 
 ![image](https://user-images.githubusercontent.com/329761/130304101-4e342b38-bcb1-404f-a1cc-3cfa0ba072dc.png)
 
