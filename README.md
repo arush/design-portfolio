@@ -1,11 +1,11 @@
 # Portfolio
 The following is some of my work from Try.com.
 
-1. Consumer Mobile app
-1. Internal admin tool + workflow system
-1. Animation
-1. Information Architecture + wireframing
-1. Desktop Chrome Extension
+1. [Consumer Mobile app](#1-mobile-app-for-trycom-credit-card)
+1. [Internal admin tool + workflow system](#2-internal-admin-tool--workflow)
+1. [Animation](#3-animation)
+1. [Information Architecture + wireframing](#4-information-architecture--wireframing)
+1. [Desktop Chrome Extension](#5-desktop-chrome-extension-onboarding)
 
 ---
 
