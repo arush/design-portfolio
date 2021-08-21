@@ -2,10 +2,11 @@
 The following is some of my work from Try.com.
 
 1. [Consumer Mobile app](#1-mobile-app-for-trycom-credit-card)
-1. [Internal admin tool + workflow system](#2-internal-admin-tool--workflow)
-1. [Animation](#3-animation)
-1. [Information Architecture + wireframing](#4-information-architecture--wireframing)
-1. [Desktop Chrome Extension](#5-desktop-chrome-extension-onboarding)
+2. [Internal admin tool + workflow system](#2-internal-admin-tool--workflow)
+3. [UI Component Library](#3-ui-component-library)
+4. [Animation](#4-animation)
+5. [Information Architecture + wireframing](#5-information-architecture--wireframing)
+6. [Desktop Chrome Extension](#6-desktop-chrome-extension-onboarding)
 
 ---
 
@@ -36,21 +37,20 @@ Our internal system at Try.com was built to be as beautiful and easy to use as a
 ![Bag Detail-2](https://user-images.githubusercontent.com/329761/130308929-6d189c1b-c846-4f2b-b783-0daf796ae871.png)
 ![Bag Detail-3](https://user-images.githubusercontent.com/329761/130308927-194d23b6-c3d5-4111-9788-a801882c4ef9.png)
 
-### UI Component Library
+### Universal search
+
+![image](https://user-images.githubusercontent.com/329761/130304101-4e342b38-bcb1-404f-a1cc-3cfa0ba072dc.png)
+
+
+## 3. UI Component Library
 <img width="964" alt="Screen Shot 2021-08-21 at 4 20 09 AM" src="https://user-images.githubusercontent.com/329761/130308987-ca70026a-d54c-4d28-9f7c-903d2935c076.png">
 <img width="1178" alt="Screen Shot 2021-08-21 at 4 17 15 AM" src="https://user-images.githubusercontent.com/329761/130308988-8dd4a7ad-5cc7-4245-b3ee-c07a85e14826.png">
 <img width="1176" alt="Screen Shot 2021-08-21 at 4 15 53 AM" src="https://user-images.githubusercontent.com/329761/130308990-5e0f7f9b-745c-43c7-8ddb-1417e7bfeda5.png">
 <img width="1101" alt="Screen Shot 2021-08-21 at 4 14 46 AM" src="https://user-images.githubusercontent.com/329761/130308992-6a259813-c781-4ebf-9c9e-647d898b2767.png">
 
 
-### Universal search
-
-![image](https://user-images.githubusercontent.com/329761/130304101-4e342b38-bcb1-404f-a1cc-3cfa0ba072dc.png)
-
-
-
 ----
-## 3. Animation
+## 4. Animation
 Here's one of many animations we used over the years. You can read how I made this on "Mastering Nested Looping Animatinos at 60fps" - https://medium.com/@arush/you-too-can-master-the-dark-art-of-60fps-animation-9406a7872770
 
 (this animated gif is a screencap and not indicative of actual perf)
@@ -58,7 +58,7 @@ Here's one of many animations we used over the years. You can read how I made th
 
 
 -----
-## 4. Information Architecture + Wireframing
+## 5. Information Architecture + Wireframing
 Here's the Miro board where requirements gathering turned into wireframes and mockups: https://miro.com/app/board/o9J_kzPiudQ=/
 <img width="1012" alt="Screen Shot 2021-08-21 at 4 02 16 AM" src="https://user-images.githubusercontent.com/329761/130308470-c3ac245c-7464-4574-891b-cd5c4e042d81.png">
 
@@ -75,7 +75,7 @@ Here's the Miro board where requirements gathering turned into wireframes and mo
 
 ----
 
-## 5. Desktop Chrome Extension Onboarding
+## 6. Desktop Chrome Extension Onboarding
 ![Desktop - Website](https://user-images.githubusercontent.com/329761/130308541-622a604c-027f-47ab-91ca-df3886febb75.png)
 ![MacBook](https://user-images.githubusercontent.com/329761/130306564-435e3711-db53-4a74-ba22-0b24e7f0e665.png)
 ![MacBook-1](https://user-images.githubusercontent.com/329761/130306478-818d7e62-bb3b-49b5-b54c-746840a58b7e.png)
