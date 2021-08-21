@@ -2,10 +2,10 @@
 The following is some of my work from Try.com.
 
 1. Consumer Mobile app
-2. Internal admin tool + workflow system
-3. Desktop Chrome Extension
-4. Web animation
-5. Information Architecture + wireframing
+1. Internal admin tool + workflow system
+1. Animation
+1. Information Architecture + wireframing
+1. Desktop Chrome Extension
 
 ---
 
