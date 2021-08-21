@@ -51,7 +51,8 @@ Our internal system at Try.com was built to be as beautiful and easy to use as a
 ### Integration Monitoring Dashboard
 We built an automated fault detection dashboard to keep track of uptime and to give customer support reps easy access to the corresponding JIRA tasks to give customers clearer ETAs on recovery. This is an example of a single retailer integration which spans Mobile Scraper, Desktop Scraper, Shipping Email, Tracking Email, Refund Email ingestion and processing.
 
-<img width="1012" alt="Screen Shot 2021-08-21 at 4 02 16 AM" src="https://user-images.githubusercontent.com/329761/130309907-8094300e-6ce0-4058-9276-712c847427f1.png">
+<img width="1172" alt="Screen Shot 2021-08-21 at 5 01 02 AM" src="https://user-images.githubusercontent.com/329761/130309968-1c0acc7f-b975-4f2c-ad22-6105ae6df059.png">
+
 
 
 ----
