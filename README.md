@@ -1,16 +1,22 @@
 # Portfolio
 The following is some of my work from Try.com.
 
-1. [Consumer Mobile app](#1-mobile-app-for-trycom-credit-card)
-2. [Internal admin tool + workflow system](#2-internal-admin-tool--workflow)
-3. [UI Component Library](#3-ui-component-library)
-4. [Animation](#4-animation)
-5. [Information Architecture + wireframing](#5-information-architecture--wireframing)
-6. [Desktop Chrome Extension](#6-desktop-chrome-extension-onboarding)
+1. [SEC / FINRA Regulated Trading Exchange](#1-trading-exchange)
+2. [Consumer Mobile app](#2-mobile-app-for-trycom-credit-card)
+3. [Internal admin tool + workflow system](#3-internal-admin-tool--workflow)
+4. [UI Component Library](#4-ui-component-library)
+5. [Animation](#5-animation)
+6. [Information Architecture + wireframing](#6-information-architecture--wireframing)
+7. [Desktop Chrome Extension](#7-desktop-chrome-extension-onboarding)
 
 ---
 
-## 1. Mobile app for Try.com Credit Card
+
+## 1. Trading Exchange
+Unfortunately this project is confidential and cannot be shared publicly.
+![image](https://user-images.githubusercontent.com/329761/227009295-43ce66fa-053f-4199-ab10-499f4730b5a6.png)
+
+## 2. Mobile app for Try.com Credit Card
 Watch the below screencap of our iOS onboarding where the user
 * connects a retailer account
 * auto issue, approve credit and inject Try credit card into retailer wallet
@@ -23,7 +29,7 @@ https://user-images.githubusercontent.com/329761/130305045-de754bc9-2345-4595-b9
 ![iphone](https://user-images.githubusercontent.com/329761/130308426-08174d50-43f5-4ef6-8e77-f8ca31cc9fcc.png)
 
 ----
-## 2. Internal admin tool + workflow
+## 3. Internal admin tool + workflow
 
 Figma file: https://www.dropbox.com/s/1kuv7hm4x2pykik/Sierra.fig?dl=0
 
@@ -42,7 +48,7 @@ Our internal system at Try.com was built to be as beautiful and easy to use as a
 ![image](https://user-images.githubusercontent.com/329761/130304101-4e342b38-bcb1-404f-a1cc-3cfa0ba072dc.png)
 
 
-## 3. UI Component Library
+## 4. UI Component Library
 <img width="964" alt="Screen Shot 2021-08-21 at 4 20 09 AM" src="https://user-images.githubusercontent.com/329761/130308987-ca70026a-d54c-4d28-9f7c-903d2935c076.png">
 <img width="1178" alt="Screen Shot 2021-08-21 at 4 17 15 AM" src="https://user-images.githubusercontent.com/329761/130308988-8dd4a7ad-5cc7-4245-b3ee-c07a85e14826.png">
 <img width="1176" alt="Screen Shot 2021-08-21 at 4 15 53 AM" src="https://user-images.githubusercontent.com/329761/130308990-5e0f7f9b-745c-43c7-8ddb-1417e7bfeda5.png">
@@ -56,7 +62,7 @@ We built an automated fault detection dashboard to keep track of uptime and to g
 
 
 ----
-## 4. Animation
+## 5. Animation
 Here's one of many animations we used over the years. You can read how I made this on "Mastering Nested Looping Animatinos at 60fps" - https://medium.com/@arush/you-too-can-master-the-dark-art-of-60fps-animation-9406a7872770
 
 (this animated gif is a screencap and not indicative of actual perf)
@@ -64,7 +70,7 @@ Here's one of many animations we used over the years. You can read how I made th
 
 
 -----
-## 5. Information Architecture + Wireframing
+## 6. Information Architecture + Wireframing
 Here's the Miro board where requirements gathering turned into wireframes and mockups: https://miro.com/app/board/o9J_kzPiudQ=/
 <img width="1012" alt="Screen Shot 2021-08-21 at 4 02 16 AM" src="https://user-images.githubusercontent.com/329761/130308470-c3ac245c-7464-4574-891b-cd5c4e042d81.png">
 
@@ -81,7 +87,7 @@ Here's the Miro board where requirements gathering turned into wireframes and mo
 
 ----
 
-## 6. Desktop Chrome Extension Onboarding
+## 7. Desktop Chrome Extension Onboarding
 ![Desktop - Website](https://user-images.githubusercontent.com/329761/130308541-622a604c-027f-47ab-91ca-df3886febb75.png)
 ![MacBook](https://user-images.githubusercontent.com/329761/130306564-435e3711-db53-4a74-ba22-0b24e7f0e665.png)
 ![MacBook-1](https://user-images.githubusercontent.com/329761/130306478-818d7e62-bb3b-49b5-b54c-746840a58b7e.png)
@@ -96,3 +102,4 @@ Here's the Miro board where requirements gathering turned into wireframes and mo
 ![MacBook-10](https://user-images.githubusercontent.com/329761/130306496-d1e73252-0588-498d-b667-b2d2aa34d2cd.png)
 ![MacBook-11](https://user-images.githubusercontent.com/329761/130306497-449828de-646d-402f-9af4-d6b3ad7c37f3.png)
 ![MacBook-12](https://user-images.githubusercontent.com/329761/130306500-9a86c1cd-e931-4c5f-8206-705a2f717ee4.png)
+
